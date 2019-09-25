@@ -1,5 +1,5 @@
 # Site settings
-title: BenYourKing's Blog
+title: YourKing's Blog
 SEOTitle: 友钦的博客 | BenYourKing‘s Blog
 header-img: img/post-bg-desk.jpg
 email: yourking1982@gmail.com
@@ -11,18 +11,18 @@ github_repo: "https://github.com/IamYourKing007/iamyourking007.github.io.git" # 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "If not me , who ? If not now , when ?"
+sidebar-about-description: "If not me,who?If not now,when?"
 sidebar-avatar: /img/yourkingself.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     Ben.YourKing
+weibo_username:     
 zhihu_username:     Ben.YourKing
 github_username:    IamYourKing007
-facebook_username:  
-jianshu_username:   
+facebook_username:  xxx
+jianshu_username:   BenYourKing
 #twitter_username:   qiubaiying
 
 
