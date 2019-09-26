@@ -17,12 +17,12 @@ sidebar-avatar: /img/yourkingself.jpg      # use absolute URL, seeing it's used 
 
 
 # SNS settings
-RSS: false
+RSS: true
 weibo_username:     
-zhihu_username:     Ben.YourKing
-github_username:    IamYourKing007
-facebook_username:  xxx
-jianshu_username:   BenYourKing
+zhihu_username: Ben.YourKing
+github_username: IamYourKing007
+facebook_username: xxx
+jianshu_username: BenYourKing
 #twitter_username:   qiubaiying
 
 
