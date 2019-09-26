@@ -97,18 +97,22 @@ service-worker: true
 
 
 # Friends
-#friends: [
-   # {
-  #      title: "WY",
-   #     href: "http://zhengwuyang.com"
-   # },{
-   #     title: "简书·BY",
-   #     href: "http://www.jianshu.com/u/e71990ada2fd"
-   # },{
-   #     title: "Apple",
-    #    href: "https://apple.com"
-    #},{
-     #   title: "Apple Developer",
-     #   href: "https://developer.apple.com/"
+friends: [
+    {
+        title: "CCR",
+        href: "https://computational-communication.com/"
+    },{
+        title: "Lingfei Wu",
+        href: "https://lingfeiwu.github.io"
+    },{
+        title: "Chenjun Wang",
+        href: "https://chengjunwang.com/"
+    },{
+        title: "Huimin Xu",
+        href: "https://xuhuimin2017.github.io"
+    }
+    #,{
+    #    title: "Apple Developer",
+    #    href: "https://developer.apple.com/"
     #}
-#]
+]
