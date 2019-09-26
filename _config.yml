@@ -111,8 +111,20 @@ friends: [
         title: "Huimin Xu",
         href: "https://xuhuimin2017.github.io"
     }
-    #,{
-    #    title: "Apple Developer",
-    #    href: "https://developer.apple.com/"
-    #}
+    ,{
+        title: "Haochuan Cui",
+        href: "https://hashc.github.io/about/"
+    }
+    ,{
+        title: "Yanbo Zhang",
+        href: "https://www.yanbozhang.com/"
+    }
+    ,{
+        title: "Xiaoshuang Jia",
+        href: "https://xiaoshuangjia.github.io/"
+    }
+    ,{
+        title: "Yiling Lin",
+        href: "https://yilinglin010.github.io/joyful-world/"
+    }
 ]
