@@ -3,8 +3,7 @@
 该博客模板是我个人非常喜欢的，整体美观、简洁、明了，Tags页面：分标签进行阅读，以及Gitalk评论功能也非常的棒！搭建和个性化起来非常的方便快捷！        
 
 当然，我只是站在巨人的肩膀上，博客的搭建来自          
-[Hux 黄玄](https://github.com/Huxpro/huxpro.github.io) 和       
-[BY  柏荧](https://www.jianshu.com/p/e68fba58f75c)两位大佬的教程！         
+[Hux 黄玄](https://github.com/Huxpro/huxpro.github.io) 和 [BY  柏荧](https://www.jianshu.com/p/e68fba58f75c)两位大佬的教程！         
              
 遵循 MIT 许可证。详细可参阅 [LICENSE](https://github.com/qiubaiying/qiubaiying.github.io/blob/master/LICENSE)。            
 
