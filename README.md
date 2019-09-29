@@ -18,15 +18,14 @@ yaml 头文件长这样:
 ```
 ---
 layout:     post
-title:      定时器 你真的会使用吗？
-subtitle:   iOS定时器详解
-date:       2016-12-13
-author:     BY
-header-img: img/post-bg-ios9-web.jpg
+title:      开始写吧，属于你你的第一篇博客！
+subtitle:   博客，记录美好生活
+date:       2019-10-01
+author:     BenYourKing
+header-img: img/deer-and-tree.jpg
 catalog: 	 true
 tags:
-    - iOS
-    - 定时器
+    - writing
 ---
 
 ```
