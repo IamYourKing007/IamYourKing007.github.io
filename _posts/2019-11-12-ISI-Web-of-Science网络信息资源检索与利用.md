@@ -1,8 +1,8 @@
 ---
 layout:     post                                                # 使用的布局（不需要改）
-title:      简懒教程 | 请不要跟我说你忘了或者你没学过SPSS           # 标题 
-subtitle:   这玩意儿只需半小时                                    # 副标题
-date:       2019-10-12                                          # 时间
+title:      简懒教程 | ISI Web of Science网络信息资源检索与利用    # 标题 
+subtitle:   全球最大、覆盖学科最多                                # 副标题
+date:       2019-11-12                                          # 时间
 author:     BenYourKing                                         # 作者
 header-img: img/datascience.jpg                              # 这篇文章标题背景图片
 catalog: true                                                   # 是否归档
